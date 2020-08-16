@@ -1,0 +1,155 @@
+/* Colour Sections */
+
+.darkSection {
+  background-color: #1b262c;
+  color: #fff;
+}
+
+.tealSection {
+  background-color: #68b0ab;
+  color: black;
+}
+
+.yellowSection {
+  background-color: #ebdc87;
+  color: black;
+}
+
+.greenSection {
+  background-color: #bbd196;
+  color: black;
+}
+
+.orangeSection {
+  background-color: #f6ab6c;
+  color: black;
+}
+
+
+/* Section One */
+#title {
+  padding: 2% 5% 5%;
+}
+
+.navbar {
+  padding: 2.5rem 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 15px;
+}
+
+.nav-link {
+  font-size: 1.1rem;
+  font-family: "Montserrat";
+}
+
+.heading {
+  font-family: "Montserrat";
+  font-size: 5.5rem;
+  line-height: 1.5;
+  padding-bottom: 15%;
+}
+
+.catchphrase {
+  font-family: "Montserrat";
+  font-size: 1.5rem;
+}
+
+/* Sections */
+.thecontainer-fluid {
+  padding: 7% 15% 7%; /* this padding makes arrows further out so they aren't squished in */
+}
+
+.health-title {
+  font-family: "Montserrat";
+  line-height: 1.2;
+  padding: 5% 5% 1%;
+  text-align: left;
+}
+
+.caption {
+  font-family: "Montserrat";
+}
+
+.image {
+  text-align: center;
+  padding-left: 30px;
+}
+
+.image:hover {
+  opacity: 0.5;
+}
+
+/* Games section  */
+p {
+  font-family: "Montserrat";
+}
+
+a.game-link {
+  font-family: "Montserrat";
+  font-size: 2rem;
+  text-align: center;
+}
+
+
+/* Contact */
+#contactus {
+  padding: 5% 15% 2%;
+}
+
+.contact {
+  text-align: center;
+  font-family: "Montserrat";
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+/* Footer Section  */
+#footer {
+  font-size: 1rem;
+  text-align: center;
+}
+
+.footer-padding {
+  padding: 2% 15% 7%;
+}
+
+.footer-caption {
+  font-family: "Ubuntu";
+}
+
+.media-icon {
+  padding: 20px 10px;
+}
